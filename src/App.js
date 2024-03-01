@@ -7,7 +7,7 @@ import MovieCard from './MovieCard';
 
 // 6c8bd4ad
 
-const apiUrl = 'http://www.omdbapi.com?apikey=6c8bd4ad';
+const apiUrl = 'https://www.omdbapi.com?apikey=6c8bd4ad';
 
 // const movie1 = {
 //   "Title" : "spiderman",
