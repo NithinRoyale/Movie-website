@@ -53,7 +53,7 @@ const App= () =>{
   
 
   useEffect(()=>{
-    // searchMovies('ironman');
+    
     getRandomMovies();
   },[])
 
