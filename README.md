@@ -5,7 +5,7 @@ The Movie Search App is a web application built with React that enables users to
 
 ## Hosted Link 
 
-You can access the hosted version of the website [Movie Discovery website](https://nithinroyale.github.io/Movie-Discovery-Website/).
+You can access the hosted version of the website [Movie Discovery website](https://nithinroyale.github.io/Movie-website/).
 
 ## Features
 
