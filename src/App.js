@@ -43,7 +43,7 @@ const App= () =>{
   };
   
   const generateRandomTerm = () => {
-    const randomWords = ['action', 'comedy', 'drama', 'thriller', 'horror', 'animation', 'adventure'];
+    const randomWords = ['action', 'fantasy','funny', 'marvel','drama', 'thriller', 'horror', 'science', 'adventure'];
     return randomWords[Math.floor(Math.random() * randomWords.length)];
   };
   
