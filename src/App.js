@@ -43,7 +43,7 @@ const App= () =>{
   };
   
   const generateRandomTerm = () => {
-    const randomWords = ['action', 'comedy', 'drama', 'thriller', 'horror', 'romance', 'adventure'];
+    const randomWords = ['action', 'comedy', 'drama', 'thriller', 'horror', 'animation', 'adventure'];
     return randomWords[Math.floor(Math.random() * randomWords.length)];
   };
   
@@ -64,7 +64,7 @@ const App= () =>{
       <div className='search'>
         <input 
         placeholder='search for movies' 
-
+        // value = {spiderman}
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         />
